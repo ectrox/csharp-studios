@@ -1,0 +1,11 @@
+C:\Users\emmac\code\CG2019\c#\studios\Area\obj\Debug\netcoreapp3.1\Area.csprojAssemblyReference.cache
+C:\Users\emmac\code\CG2019\c#\studios\Area\obj\Debug\netcoreapp3.1\Area.AssemblyInfoInputs.cache
+C:\Users\emmac\code\CG2019\c#\studios\Area\obj\Debug\netcoreapp3.1\Area.AssemblyInfo.cs
+C:\Users\emmac\code\CG2019\c#\studios\Area\bin\Debug\netcoreapp3.1\Area.exe
+C:\Users\emmac\code\CG2019\c#\studios\Area\bin\Debug\netcoreapp3.1\Area.deps.json
+C:\Users\emmac\code\CG2019\c#\studios\Area\bin\Debug\netcoreapp3.1\Area.runtimeconfig.json
+C:\Users\emmac\code\CG2019\c#\studios\Area\bin\Debug\netcoreapp3.1\Area.runtimeconfig.dev.json
+C:\Users\emmac\code\CG2019\c#\studios\Area\bin\Debug\netcoreapp3.1\Area.dll
+C:\Users\emmac\code\CG2019\c#\studios\Area\bin\Debug\netcoreapp3.1\Area.pdb
+C:\Users\emmac\code\CG2019\c#\studios\Area\obj\Debug\netcoreapp3.1\Area.dll
+C:\Users\emmac\code\CG2019\c#\studios\Area\obj\Debug\netcoreapp3.1\Area.pdb
