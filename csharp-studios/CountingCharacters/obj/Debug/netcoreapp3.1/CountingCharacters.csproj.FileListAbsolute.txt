@@ -1,0 +1,11 @@
+C:\Users\emmac\code\CG2019\c#\csharp-studios\CountingCharacters\bin\Debug\netcoreapp3.1\CountingCharacters.exe
+C:\Users\emmac\code\CG2019\c#\csharp-studios\CountingCharacters\bin\Debug\netcoreapp3.1\CountingCharacters.deps.json
+C:\Users\emmac\code\CG2019\c#\csharp-studios\CountingCharacters\bin\Debug\netcoreapp3.1\CountingCharacters.runtimeconfig.json
+C:\Users\emmac\code\CG2019\c#\csharp-studios\CountingCharacters\bin\Debug\netcoreapp3.1\CountingCharacters.runtimeconfig.dev.json
+C:\Users\emmac\code\CG2019\c#\csharp-studios\CountingCharacters\bin\Debug\netcoreapp3.1\CountingCharacters.dll
+C:\Users\emmac\code\CG2019\c#\csharp-studios\CountingCharacters\bin\Debug\netcoreapp3.1\CountingCharacters.pdb
+C:\Users\emmac\code\CG2019\c#\csharp-studios\CountingCharacters\obj\Debug\netcoreapp3.1\CountingCharacters.csprojAssemblyReference.cache
+C:\Users\emmac\code\CG2019\c#\csharp-studios\CountingCharacters\obj\Debug\netcoreapp3.1\CountingCharacters.AssemblyInfoInputs.cache
+C:\Users\emmac\code\CG2019\c#\csharp-studios\CountingCharacters\obj\Debug\netcoreapp3.1\CountingCharacters.AssemblyInfo.cs
+C:\Users\emmac\code\CG2019\c#\csharp-studios\CountingCharacters\obj\Debug\netcoreapp3.1\CountingCharacters.dll
+C:\Users\emmac\code\CG2019\c#\csharp-studios\CountingCharacters\obj\Debug\netcoreapp3.1\CountingCharacters.pdb
