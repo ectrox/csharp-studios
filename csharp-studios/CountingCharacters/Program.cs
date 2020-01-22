@@ -7,9 +7,7 @@ namespace CountingCharacters
     {
         static void Main(string[] args)
         {
-            string crazyString = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc accumsan sem ut ligula scelerisque sollicitudin. " +
-                                 "Ut at sagittis augue. Praesent quis rhoncus justo. Aliquam erat volutpat. Donec sit amet suscipit metus, non lobortis massa. " +
-                                 "Vestibulum augue ex, dapibus ac suscipit vel, volutpat eget massa. Donec nec velit non ligula efficitur luctus.";
+            string crazyString = Console.ReadLine().ToLower();
 
             Dictionary<char, int> countingDict = new Dictionary<char, int>();
 
@@ -18,7 +16,8 @@ namespace CountingCharacters
                 if (!countingDict.ContainsKey(crazyString[i]))
                 {
                     countingDict.Add(crazyString[i], 1);
-                } else
+                } 
+                else
                 {
                     countingDict[crazyString[i]] += 1;
                 }
